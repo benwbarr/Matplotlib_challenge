@@ -37,12 +37,13 @@ You have been tasked by the executive team to generate all of the tables and fig
 4. Generate a bar plot using both Pandas's DataFrame.plot() and Matplotlib's pyplot that shows  the number of total mice for each treatment regimen throughout the course of the study.
 
 
-NOTE: These plots should look identical.
+![alt text](https://github.com/benwbarr/Matplotlib_challenge/blob/main/Images/bar%201.PNG?raw=true)
 
 
 
 5. Generate a pie plot using both Pandas's DataFrame.plot() and Matplotlib's pyplot that shows the distribution of female or male mice in the study.
 
+![alt text](https://github.com/benwbarr/Matplotlib_challenge/blob/main/Images/pie1.PNG?raw=true)
 
 NOTE: These plots should look identical.
 
@@ -52,22 +53,24 @@ NOTE: These plots should look identical.
 
 
 7. Using Matplotlib, generate a box and whisker plot of the final tumor volume for all four treatment regimens and highlight any potential outliers in the plot by changing their color and style.
-Hint: All four box plots should be within the same figure. Use this Matplotlib documentation page for help with changing the style of the outliers.
+
 
 
 8. Select a mouse that was treated with Capomulin and generate a line plot of tumor volume vs. time point for that mouse.
 
+![alt text](https://github.com/benwbarr/Matplotlib_challenge/blob/main/Images/scat1.PNG?raw=true)
 
 9. Generate a scatter plot of mouse weight versus average tumor volume for the Capomulin treatment regimen.
 
+![alt text](https://github.com/benwbarr/Matplotlib_challenge/blob/main/Images/scat2.PNG?raw=true)
 
 10 Calculate the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. Plot the linear regression model on top of the previous scatter plot.
 
+![alt text](https://github.com/benwbarr/Matplotlib_challenge/blob/main/Images/scat3.PNG?raw=true)
 
-11. Look across all previously generated figures and tables and write at least three observations or inferences that can be made from the data. Include these observations at the top of notebook.
+### Look across all previously generated figures and tables and write at least three observations or inferences that can be made from the data. Include these observations at the top of notebook. ###
 
-
-#
+1. 
 
 
 
