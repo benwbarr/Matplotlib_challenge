@@ -70,7 +70,11 @@ NOTE: These plots should look identical.
 
 ### Look across all previously generated figures and tables and write at least three observations or inferences that can be made from the data. Include these observations at the top of notebook. ###
 
-1. 
+1. Capomulin and were the two most used drugs during the trials.
+
+2. The larger weight of the mice coralated into a higher tumour likleyhood.
+
+3. More male mice were used in the drug trials than females.
 
 
 
